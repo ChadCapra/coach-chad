@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Fielding Instructions for Pitcher and Catcher</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  ul { list-style-type: none; }
+  li { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<h1>Fielding Instructions for Pitcher and Catcher</h1>
+<ul>
+  <li><strong>Pitcher Strategy:</strong> Cover or back up bases depending on where the ball is hit. Move towards first or third base accordingly.</li>
+  <li><strong>Catcher Play:</strong> Clear the plate area and be ready for plays at home. Kick any obstructions like bats out of the way.</li>
+  <li><strong>Positioning at Home:</strong> If there is a play at home and it's a force situation, keep one foot on home plate. If not, position yourself to make a tag play.</li>
+  <li><strong>Communication:</strong> Both pitcher and catcher must communicate clearly with infielders about the status of the play and who is covering what base.</li>
+</ul>
+</body>
+</html>
