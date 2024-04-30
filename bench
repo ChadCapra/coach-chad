@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Youth Baseball Team Bench Protocol</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  ul { list-style-type: none; }
+  li { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<h1>Youth Baseball Team Bench Protocol</h1>
+<p>Follow these steps when on the bench during batting:</p>
+<ul>
+  <li><strong>Step 1:</strong> Check the batting order. Know the three people in front of you and the person following you in the lineup.</li>
+  <li><strong>Step 2:</strong> Move your magnet on the field diagram board to indicate your position for the next inning.</li>
+  <li><strong>Step 3:</strong> Batteries 1, 2, and 3 get their batting gear ready.
+    <ul>
+      <li>Batter 1 should move to the warm-up circle.</li>
+      <li>Batter 2 should start warming up near the on-deck area.</li>
+      <li>Batter 3 should be ready with their gear, waiting behind the fence, observing the pitches.</li>
+    </ul>
+  </li>
+  <li><strong>Step 4:</strong> Batter 4 passes the scorebook to Batter 5, then prepares their batting gear and waits on the bench.</li>
+  <li><strong>Step 5:</strong> During batting:
+    <ul>
+      <li>Batter 1 is in the batter’s box.</li>
+      <li>Batter 2 is in the on-deck circle.</li>
+      <li>Batter 3 is behind the fence, watching and stretching.</li>
+      <li>Batter 4 is at the end of the bench, ready to bat next.</li>
+      <li>Batter 5 records the play outcomes in the scorebook during their turn.</li>
+    </ul>
+  </li>
+  <li><strong>Step 6:</strong> All other players cheer on the team, without their batting gear on, unless they are the fourth batter in line.</li>
+</ul>
+</body>
+</html>
