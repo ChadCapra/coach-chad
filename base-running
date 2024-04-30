@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Base Running Instructions for Youth Baseball Team</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  ul { list-style-type: none; }
+  li { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<h1>Base Running Instructions for Youth Baseball Team</h1>
+<p>Key steps and strategies for effective base running:</p>
+<ul>
+  <li><strong>Step 1:</strong> Always be aware of the game situation. Know whether there are two outs or fewer and adjust your running strategy accordingly.</li>
+  <li><strong>Step 2:</strong> Steal bases only when the ball goes past the catcher, otherwise maintain readiness to run based on the ball's movement.</li>
+  <li><strong>Step 3:</strong> Adopt a sprinter’s stance on the base to quickly advance to the next base as soon as the pitch crosses home plate.</li>
+  <li><strong>Step 4:</strong> If there are two outs and you are on a forced run (bases behind you are filled), run immediately when the ball is hit, regardless of the type of hit.</li>
+  <li><strong>Step 5:</strong> With less than two outs, lead off the base far enough to advance but be prepared to return quickly to tag up if the ball is caught.</li>
+  <li><strong>Step 6:</strong> Understand 'tagging up': If a fly ball is likely to be caught, return to your base to prepare to advance only after the catch is made.</li>
+  <li><strong>Step 7:</strong> If the fly ball is caught, you can run as soon as the ball touches any part of the fielder. This applies even if you’re tagging up from third base to run home.</li>
+  <li><strong>Step 8:</strong> With two outs, focus solely on running as there’s no need to tag up; the inning ends if the ball is caught.</li>
+</ul>
+</body>
+</html>
