@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Fielding Instructions for Youth Baseball Team</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  ul { list-style-type: none; }
+  li { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<h1>Fielding Instructions for Youth Baseball Team</h1>
+<h2>Before the Ball is Hit:</h2>
+<ul>
+  <li><strong>Step 1:</strong> Evaluate potential force out opportunities. Focus on getting the lead force out to prevent runs.</li>
+  <li><strong>Step 2:</strong> Positioning:
+    <ul>
+      <li>Corners (1st and 3rd base) should be one step in front of the baseline, ready to take two steps and a dive towards the ball.</li>
+      <li>Middle infielders (2nd base and shortstop) should be ready to move towards any ball on their side and cover second base when needed.</li>
+      <li>Pitchers should move towards first or third base based on where the ball is hit to support fielding or back up bases.</li>
+      <li>Catchers should prepare to clear the plate area and be ready for potential plays at home.</li>
+    </ul>
+  </li>
+</ul>
+<h2>After the Ball is Hit:</h2>
+<ul>
+  <li><strong>Step 3:</strong> If the ball is hit:
+    <ul>
+      <li>First and third basemen should guard their lines and prepare to charge balls hit towards them.</li>
+      <li>Shortstops and second basemen must cover their halves and back each other up. The non-fielding middle infielder covers second base.</li>
+      <li>Outfielders should immediately move to back up potential throws to bases, ensuring they position themselves behind the base that might be thrown to next.</li>
+    </ul>
+  </li>
+  <li><strong>Step 4:</strong> Communication is key. Players should loudly call "I got it" or direct other players as needed to ensure clarity during plays.</li>
+  <li><strong>Step 5:</strong> Backup and coverage:
+    <ul>
+      <li>Every fielder not directly involved in a play should back up the nearest play or base.</li>
+      <li>After an overthrow or missed catch, fielders need to be in positions to quickly retrieve the ball and prevent additional base advances by runners.</li>
+    </ul>
+  </li>
+  <li><strong>Step 6:</strong> End of play handling:
+    <ul>
+      <li>Throws should generally end up with the pitcher or catcher, depending on the situation and base runners’ positions.</li>
+      <li>Focus on preventing runs over chasing outs between bases if there is a significant risk of allowing a score.</li>
+    </ul>
+  </li>
+</ul>
+</body>
+</html>
