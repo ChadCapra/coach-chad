@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Batting Instructions for Youth Baseball Team</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  ul { list-style-type: none; }
+  li { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<h1>Batting Instructions for Youth Baseball Team</h1>
+<p>Steps to follow when it's your turn to bat:</p>
+<ul>
+  <li><strong>Step 1:</strong> Time the pitches from the pitcher before entering the batter's box or while in the on-deck circle. Watch the ball and decide the timing of your swing based on the pitcher's delivery.</li>
+  <li><strong>Step 2:</strong> Clear the batter's box. Use your cleats to drag and clear out any previous footprints, ensuring only your footprints are in the box.</li>
+  <li><strong>Step 3:</strong> Position your feet properly. Use the back foot trick or toes on the batter's box line to ensure correct distance from the plate. Kick some dirt around to mark where your feet will go during the at-bat.</li>
+  <li><strong>Step 4:</strong> Perform your pre-swing routine, which may include tapping the plate and other personal rituals, then set your stance facing the pitcher.</li>
+  <li><strong>Step 5:</strong> Initiate the swing by stepping forward, keeping the weight on your back foot while pivoting on your front toe. Assume every pitch will be good enough to hit.</li>
+  <li><strong>Step 6:</strong> Execute the swing. Start with the hips, followed by the torso, then arms and wrists. Complete the swing if the pitch is close to being a strike.</li>
+  <li><strong>Step 7:</strong> After making contact, immediately focus on first base and run as fast as possible without looking at the ball. Follow the coach's instructions if there's a chance to advance to second base.</li>
+  <li><strong>Step 8:</strong> After reaching first base, run through the base, and then turn to your right (towards the foul line) to clearly indicate no intent to advance to second base. Return to first base safely.</li>
+</ul>
+</body>
+</html>
